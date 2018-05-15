@@ -1,0 +1,3 @@
+[submodule "3rdparty/gnome-cmake"]
+	path = 3rdparty/gnome-cmake
+	url = https://github.com/nemequ/gnome-cmake.git
